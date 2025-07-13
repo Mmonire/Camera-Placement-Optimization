@@ -113,9 +113,3 @@ The presentation cites the following works:
 2. Quadri Nooruhasan Naveed, Hamed Alqhtani, "An Intelligent Traffic Surveillance System Using Integrated Wireless Sensor Network and Improved Phase Timing Optimization."
 3. Andries M. Heyys, "Optimisation of surveillance camera site locations and viewing angles using a novel multiattribute, multi-objective genetic algorithm. A day/night anti-poaching application."
 4. Maged Faiban Aloaubi, "Computational Intelligence-Based Harmony Search Algorithm for Real-Time Object Detection and Tracking in Video Surveillance Systems."
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
