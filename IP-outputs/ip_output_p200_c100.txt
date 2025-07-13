@@ -1,0 +1,19 @@
+Version identifier: 22.1.2.0 | 2024-12-09 | 8bd2200c8
+CPXPARAM_Read_DataCheck                          1
+Found incumbent of value 100.000000 after 0.00 sec. (0.01 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 192 rows and 88 columns.
+MIP Presolve modified 2 coefficients.
+Aggregator did 8 substitutions.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.18 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.20 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.20 ticks)
+Optimal Number of Cameras: 40

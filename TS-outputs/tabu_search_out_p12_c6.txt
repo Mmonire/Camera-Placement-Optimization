@@ -1,0 +1,4 @@
+Selected Cameras: ['c1', 'c6']
+Number of Cameras Selected: 2
+Execution Time: 0.09 seconds
+Aspiration Uses: 0

@@ -1,0 +1,4 @@
+Selected Cameras: ['c70', 'c83', 'c82', 'c29', 'c60', 'c91', 'c54', 'c49', 'c71', 'c58', 'c12', 'c35', 'c40', 'c44', 'c95', 'c16', 'c73', 'c1', 'c51', 'c21', 'c37', 'c98', 'c92', 'c56', 'c41', 'c39', 'c8', 'c86', 'c75', 'c89', 'c57', 'c85', 'c67', 'c90', 'c100', 'c53', 'c61', 'c64', 'c78', 'c96', 'c87', 'c6', 'c36', 'c24']
+Number of Cameras Selected: 44
+Execution Time: 1.35 seconds
+Aspiration Uses: 0
